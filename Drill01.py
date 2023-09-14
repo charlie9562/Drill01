@@ -19,7 +19,6 @@ def turtle_d():
 def turtle_re():
     turtle.reset()
     turtle.color('blue')
-    
 
     
 turtle.shape('turtle')
@@ -35,3 +34,5 @@ turtle.onkey(turtle_d,'d')
 turtle.listen()
 turtle.onkey(turtle_re,'Escape')
 turtle.listen()
+
+
